@@ -1,2 +1,2 @@
 # Tochiro
-![Logo](assets/icon.png)
+![Logo](assets/icon_mini.png)
